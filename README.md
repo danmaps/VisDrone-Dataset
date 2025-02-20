@@ -18,7 +18,7 @@ The challenge mainly focuses on four tasks:
 
 ## Download
 
-Note that the bounding box annotations of test-dev are avalialbe. Researchers can use test-dev to publish papers. testset-challenge is used for VisDrone2020 Challenge and the annotations is unavailable. 
+Note that the bounding box annotations of test-dev are available. Researchers can use test-dev to publish papers. testset-challenge is used for VisDrone2020 Challenge and the annotations is unavailable. 
 
 ### Task 1: Object Detection in Images 
 
